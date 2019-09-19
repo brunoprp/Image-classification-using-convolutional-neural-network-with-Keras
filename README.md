@@ -1,1 +1,1 @@
-# Classificacao-de-Imagens-com-Redes-Neurais-Covolucionais-em-Python
+# Image classification using convolutional neural network with Keras
