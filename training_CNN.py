@@ -9,7 +9,6 @@ Created on Wed Sep 18 20:23:06 2019
 
 import image_processing
 
-
 dire_train = 'data/train/'
 dire_test = 'data/test/'
 dire_val = 'data/val/'
